@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=minhkhoa324&color=green)
 - 🌱 I’m currently learning **Backend**.
 - 💬 Ask me about **Data Structures and Algorithms**
-- 📫 How to reach me: tmkhoa.work@gmail.com
+- 📫 How to reach me: tmkhoaltv@gmail.com
 - ⚡ Fun fact: **A kind person**
 
 Good at C++.\
