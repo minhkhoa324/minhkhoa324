@@ -1,5 +1,5 @@
 ### Hi there, I'm Minh Khoa Tran 👋
-#### A passionate person try to learning new things.
+#### A passionate person tries to learning new things.
 ![](https://komarev.com/ghpvc/?username=minhkhoa324&color=green)
 - 🌱 I’m currently learning **Backend**.
 - 💬 Ask me about **Data Structures and Algorithms**
