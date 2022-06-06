@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Minh Khoa Tran 👋
+#### A passionate person try to learning new things.
+![](https://komarev.com/ghpvc/?username=minhkhoa324&color=green)
+- 🌱 I’m currently learning **Backend**.
+- 💬 Ask me about **Data Structures and Algorithms**
+- 📫 How to reach me: tmkhoa.work@gmail.com
+- ⚡ Fun fact: **A kind person**
 
-<!--
-**minhkhoa324/minhkhoa324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Good at C++.\
+Pupil in Python and Java.\
+Developer Tools: Git, VS Code, Visual Studio, IntelliJ, Neovim.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
